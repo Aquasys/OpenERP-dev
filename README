@@ -1,0 +1,5 @@
+This script allows you to not worry about reloading OpenERP, it does it for you.
+
+To use :
+ - you need to install watchdog (pip install watchdog)
+ - run by using the following command : python openerp-watcher.py /path/to/openerp/addons
